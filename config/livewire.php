@@ -42,7 +42,7 @@ return [
     |
     */
 
-    'asset_url'  => 'http://laravel-movieapp.herokuapp.com/',
+    'asset_url'  => 'http://laravel-movieapp.herokuapp.com',
 
     /*
     |--------------------------------------------------------------------------
