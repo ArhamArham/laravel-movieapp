@@ -1,0 +1,11 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.spinner {
+    position: absolute;
+    color: transparent !important;
+    pointer-events: none;
+  }
